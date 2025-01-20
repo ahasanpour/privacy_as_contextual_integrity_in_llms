@@ -25,3 +25,4 @@ These papers addressed Contextual Integrity in LLMs (large language models). Con
 |------| --- |-------------------| --- |
 |2023|FANToM: A benchmark for stress-testing machine theory of mind in interactions| FANToM            |https://hyunw.kim/fantom
 |2024| Evaluating large language models in theory of mind tasks||
+|2024| Contextual Integrity Games||
