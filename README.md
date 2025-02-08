@@ -4,6 +4,7 @@ These papers addressed Contextual Integrity in LLMs (large language models). Con
 
 | Year | Paper | Dataset/Benchmark | Repository/Webpage 
 |------| --- |-------------------| --- |
+|2018| Discovering smart home internet of things privacy norms using contextual integrity||
 |2023| Automating Governing Knowledge Commons and Contextual Integrity (GKC-CI) Privacy Policy Annotations with Large Language Models ||
 | 2024 | Can llms keep a secret? testing privacy implications of language models via contextual integrity theory|         CONFAIDE          |https://confaide.github.io/
 | 2024 | Operationalizing Contextual Integrity in Privacy-Conscious Assistants | 
