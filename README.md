@@ -19,6 +19,7 @@ These papers addressed Contextual Integrity in LLMs (large language models). Con
 |2024| CI-Bench: Benchmarking Contextual Integrity of AI Assistants on Synthetic Data||
 |2024| Technology as uncharted territory: Contextual integrity and the notion of AI as new ethical ground||
 |2024| TRUSTLLM: TRUSTWORTHINESS IN LARGE LANGUAGE MODELS||https://github.com/HowieHwong/TrustLLM   https://trustllmbenchmark.github.io/TrustLLM-Website/
+|2025| PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance || https://hkust-knowcomp.github.io/privacy/
 
 
 ## Related Papers
